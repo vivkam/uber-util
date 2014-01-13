@@ -1,0 +1,18 @@
+{
+	"name" : "uber-util",
+	"version" : "0.0.1",
+	"description" : "A super Node.js util module.",
+	"author" : {
+		"name" : "Vivian Kam",
+		"email" : "otherviv@gmail.com"
+	},
+	"main" : "uber-util.js",
+	"repository" : {
+		"type" : "git",
+		"url" : "git@github.com:vivkam/uber-util.git"
+	},
+	"keywords" : [ "util" ],
+	"dependencies" : {
+		"deepmerge" : ""
+	}
+}
