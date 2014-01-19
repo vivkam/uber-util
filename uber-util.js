@@ -22,3 +22,7 @@ util.removeEmptyProperties = function (thing) {
 		}
 	}
 };
+
+util.isObject = function (thing) {
+	return typeof thing === 'object' && thing !== null;
+}
